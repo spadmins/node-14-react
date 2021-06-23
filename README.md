@@ -1,7 +1,7 @@
 
 <img width="100" src="https://cdn.springpeople.com/media/reactjs.png" />
 
-# Node 14.7 + React Project
+# Node 14 + React Project
 
 ## Getting started
 
